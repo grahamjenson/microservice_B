@@ -1,5 +1,5 @@
 To start the service run
 
 ```
-node serviceB.js
+node service.js
 ```
